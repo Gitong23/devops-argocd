@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: pun-api
-        image: ghcr.io/gitong23/devops-go-example:fafc8fed51aeedb8b7801bdb72c52e9ff0c7f662
+        image: ghcr.io/gitong23/devops-go-example:a48fb654b6c4bf6dee8cad1ece76e072d6a0b111
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
